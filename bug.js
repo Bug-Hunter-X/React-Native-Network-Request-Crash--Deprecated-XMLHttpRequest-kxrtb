@@ -1,0 +1,1 @@
+This React Native code uses a deprecated method for handling network requests.  The `fetch` API is generally preferred over `XMLHttpRequest`.  Additionally, error handling is missing, leading to crashes if the request fails.
